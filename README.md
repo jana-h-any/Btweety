@@ -34,7 +34,7 @@ A modern, full-stack food ordering application built with Node.js, Express, and 
 ### Backend
 - **Runtime**: Node.js
 - **Framework**: Express.js
-- **Database**: MongoDB
+- **Database**: SQL Server database created and managed using SQL Server Management Studio (SSMS).
 - **Authentication**: Session-based & JWT
 
 ### Frontend
@@ -49,3 +49,4 @@ A modern, full-stack food ordering application built with Node.js, Express, and 
 - **Database**: MongoDB with Mongoose (or native driver)
 
 ## 📁 Project Structure
+
