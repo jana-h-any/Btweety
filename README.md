@@ -9,7 +9,8 @@ A modern, full-stack food ordering application built with Node.js, Express, and 
 - **Order Management**: Place, track, and manage food orders
 - **Shopping Cart**: Add items to cart with quantity management
 - **Order History**: View past orders and reorder favorite items
-- **Admin Dashboard**: Manage restaurants, menus, and orders
+- **Admin Dashboard**: Manage restaurants
+- **restaurants Dashboard**: Manage menus, and orders
 - **Real-time Updates**: Track order status in real-time
 - **Responsive Design**: Mobile-friendly web interface
 
@@ -57,6 +58,7 @@ Btweety/
 # 👩‍💻 Author
 
 ## Jana Hany
+
 
 
 
