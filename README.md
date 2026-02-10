@@ -51,9 +51,12 @@ Btweety/
 ├── package-lock.json        # Dependency lock file
 └── README.md                # Project documentation
 
+```
 
-## 👩‍💻 Author
 
-# Developed by Jana Hany
+# 👩‍💻 Author
+
+## Jana Hany
+
 
 
