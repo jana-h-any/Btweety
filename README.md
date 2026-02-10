@@ -50,5 +50,23 @@ A modern, full-stack food ordering application built with Node.js, Express, and 
 
 ## 📁 Project Structure
 
+Btweety/
+├── .vscode/                 # VS Code configuration
+├── assets/                  # Asset files (images, styles, etc.)
+├── controllers/             # Controller files for handling business logic
+├── databse/                 # Database related files (note: misspelled as "databse")
+├── db queries/              # Database query files
+├── demo video/              # Demo video files
+├── models/                  # Data models
+├── node_modules/            # NPM dependencies
+├── uploads/                 # Directory for uploaded files
+├── views/                   # View files (frontend/UI)
+├── README.md                # Project documentation
+├── package.json             # NPM package configuration
+├── package-lock.json        # NPM dependency lock file
+└── server.js                # Main server entry point
 
 
+## 👩‍💻 Author
+
+# Developed by Jana Hany
