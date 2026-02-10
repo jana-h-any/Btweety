@@ -1,6 +1,6 @@
 # 🍕 Btweety - Food Ordering System
 
-A modern, full-stack food ordering application built with Node.js, Express, and MongoDB. This system allows users to browse restaurants, place orders, and manage their deliveries seamlessly.
+A modern, full-stack food ordering application built with Node.js, Express, and SQL Server database . This system allows users to browse restaurants, place orders, and manage their deliveries seamlessly.
 
 ## 📋 Table of Contents
 
@@ -49,5 +49,6 @@ A modern, full-stack food ordering application built with Node.js, Express, and 
 - **Database**:  SQL Server database created and managed using SQL Server Management Studio (SSMS).
 
 ## 📁 Project Structure
+
 
 
