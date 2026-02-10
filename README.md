@@ -49,24 +49,27 @@ A modern, full-stack food ordering application built with Node.js, Express, and 
 - **Database**:  SQL Server database created and managed using SQL Server Management Studio (SSMS).
 
 ## 📁 Project Structure
+## 📁 Project Structure
 
+```bash
 Btweety/
 ├── .vscode/                 # VS Code configuration
-├── assets/                  # Asset files (images, styles, etc.)
-├── controllers/             # Controller files for handling business logic
-├── databse/                 # Database related files (note: misspelled as "databse")
-├── db queries/              # Database query files
+├── assets/                  # Static assets (images, styles, etc.)
+├── controllers/             # Application logic & controllers
+├── database/                # Database-related files
+├── db queries/              # SQL scripts and queries
 ├── demo video/              # Demo video files
 ├── models/                  # Data models
-├── node_modules/            # NPM dependencies
-├── uploads/                 # Directory for uploaded files
-├── views/                   # View files (frontend/UI)
-├── README.md                # Project documentation
-├── package.json             # NPM package configuration
-├── package-lock.json        # NPM dependency lock file
-└── server.js                # Main server entry point
+├── uploads/                 # Uploaded images
+├── views/                   # EJS templates (UI)
+├── .env                     # Environment variables
+├── server.js                # Main server entry point
+├── package.json             # Project dependencies
+├── package-lock.json        # Dependency lock file
+└── README.md                # Project documentation
 
 
 ## 👩‍💻 Author
 
 # Developed by Jana Hany
+
