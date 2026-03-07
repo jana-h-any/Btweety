@@ -2,6 +2,8 @@
 
 A modern, full-stack food ordering application built with Node.js, Express, and SQL Server database . This system allows users to browse restaurants, place orders, and manage their deliveries seamlessly.
 
+![Home](sc/home sc.png)
+
 ## ✨ Features
 
 - **User Authentication & Authorization**: Secure login and registration system
@@ -58,6 +60,7 @@ Btweety/
 # 👩‍💻 Author
 
 ## Jana Hany
+
 
 
 
